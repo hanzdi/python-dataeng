@@ -30,6 +30,14 @@ Przykładowe zagadnienia:
 * pandas - operacje wektorowe
 * integracja z REST API
 
+## Warunki zaliczenia
+
+* aktywność na zajęciach:
+  * prezentacja rozwiązań zadań
+  * zgłaszanie błędów (literówki się nie liczą, ale ich zgłaszanie jest mile widziane)
+  * propozycje ulepszeń
+* opcjonalnie:
+  * prosty projekt  
 
 ## O mnie
 
