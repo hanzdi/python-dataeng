@@ -24,11 +24,12 @@ Cel:
 ### Opcjonalne zagadnienia
 
 Cel:
-* prezentacja dodatkowych technik optymalizacji i integracji danych
+* prezentacja dodatkowych technik optymalizacji i integracji danych oraz innych przydatnych zagadnień
 
 Przykładowe zagadnienia:
 * pandas - operacje wektorowe
 * integracja z REST API
+* testowanie kodu
 
 ## Warunki zaliczenia
 
