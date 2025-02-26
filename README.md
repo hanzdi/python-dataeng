@@ -42,6 +42,7 @@ Przykładowe zagadnienia:
 
 ## O mnie
 
-[Mail](kplatek@wmi.amu.edu.pl)
+Mail
+
 [LinkedIn](https://www.linkedin.com/in/krzysztof-p%C5%82atek-70144010b/)
 
