@@ -16,5 +16,6 @@ def job(input_path, output_path):
   transformed_data = transform(source_data)
   load(transformed_data, output_path)
 
+# nazwa modułu: __main__
 if __name__ == '__main__':
     job(sys.argv[1], sys.argv[2])
