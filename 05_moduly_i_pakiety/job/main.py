@@ -1,5 +1,5 @@
 import argparse
-from .job import job
+from job import job
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser("Job")

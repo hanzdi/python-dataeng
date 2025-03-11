@@ -1,6 +1,6 @@
-from .extractors import extract
-from .loaders import load
-from .transformations import transform
+from extractors.extract import extract
+from loaders.load import load
+from transformations.transform import transform
 
 def job(input_path, output_path):
   source_data = extract(input_path)
