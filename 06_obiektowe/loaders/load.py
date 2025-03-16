@@ -7,5 +7,3 @@ class jsonLoader:
     self.lines = lines
   def load(self, df, path):
     return df.to_json(path, orient=self.orient, index=self.index, lines=self.lines)
-
-
