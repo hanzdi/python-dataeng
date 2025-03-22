@@ -1,6 +1,6 @@
 import pandas as pd
 
-class jsonLoader:
+class JsonLoader:
   def __init__(self,orient, index, lines):
     self.orient = orient
     self.index = index

@@ -1,10 +1,10 @@
-{"Imi\u0119": "Ewa"}
-{"Imi\u0119": "Marek"}
-{"Imi\u0119": "Maria"}
-{"Imi\u0119": "Piotr"}
-{"Imi\u0119": "Agnieszka"}
-{"Imi\u0119": "Anna"}
-{"Imi\u0119": "Tomasz"}
-{"Imi\u0119": "Adam"}
-{"Imi\u0119": "Jan"}
-{"Imi\u0119": "Katarzyna"}
+{"ID":1,"Imi\u0119":"Piotr","Nazwisko":"Kowalski","Stanowisko":"In\u017cynier produkcji","Departament":"Marketing","Sta\u017c pracy (lata)":21}
+{"ID":2,"Imi\u0119":"Ewa","Nazwisko":"Wi\u015bniewska","Stanowisko":"Kierownik projektu","Departament":"Finanse","Sta\u017c pracy (lata)":23}
+{"ID":3,"Imi\u0119":"Jan","Nazwisko":"Kowalski","Stanowisko":"Kierownik projektu","Departament":"HR","Sta\u017c pracy (lata)":5}
+{"ID":6,"Imi\u0119":"Adam","Nazwisko":"Kowalski","Stanowisko":"Kierownik projektu","Departament":"Produkcja","Sta\u017c pracy (lata)":29}
+{"ID":9,"Imi\u0119":"Anna","Nazwisko":"Lewandowski","Stanowisko":"In\u017cynier produkcji","Departament":"Zarz\u0105dzanie","Sta\u017c pracy (lata)":7}
+{"ID":10,"Imi\u0119":"Maria","Nazwisko":"Wo\u017aniak","Stanowisko":"Kierownik projektu","Departament":"HR","Sta\u017c pracy (lata)":30}
+{"ID":12,"Imi\u0119":"Tomasz","Nazwisko":"W\u00f3jcik","Stanowisko":"In\u017cynier produkcji","Departament":"Marketing","Sta\u017c pracy (lata)":29}
+{"ID":14,"Imi\u0119":"Marek","Nazwisko":"Zieli\u0144ski","Stanowisko":"Specjalista ds. IT","Departament":"IT","Sta\u017c pracy (lata)":13}
+{"ID":15,"Imi\u0119":"Agnieszka","Nazwisko":"Zieli\u0144ska","Stanowisko":"Marketing Specialist","Departament":"Marketing","Sta\u017c pracy (lata)":25}
+{"ID":17,"Imi\u0119":"Katarzyna","Nazwisko":"Nowak","Stanowisko":"Marketing Specialist","Departament":"HR","Sta\u017c pracy (lata)":20}

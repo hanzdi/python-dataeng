@@ -1,6 +1,3 @@
-from extractors.extract import CsvExtractor
-from transformations.transform import Deduplicator
-from loaders.load import JsonLoader
 class Job:
     def __init__(self, input_path, output_path, extractor, transformer, loader):
         self.input_path = input_path
